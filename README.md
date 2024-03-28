@@ -39,13 +39,14 @@ et de se connecter à l'administration de celui-ci pour faire la mise à jour de
     {include file="homebanner/homebanner.tpl" orientation="top"}
 {/block}
 ````
+### License
 
 <pre>
 
 This file is a plugin of Magix CMS.
 Magix CMS, a CMS optimized for SEO
 
-Copyright (C) 2008 - 2018 magix-cms.com support[at]magix-cms[point]com
+Copyright (C) 2008 - 2024 magix-cms.com support[at]magix-cms[point]com
 
 AUTHORS :
 
